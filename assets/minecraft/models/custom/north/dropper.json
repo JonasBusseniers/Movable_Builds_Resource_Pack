@@ -5,7 +5,7 @@
         "front": "block/dropper_front",
         "side": "block/furnace_side"
     }, "display": {
-    "head": {
+    "head": {"translation":[ 0, -6, 0 ],
         "rotation": [ 0, -180, 0 ]
     }}
 }

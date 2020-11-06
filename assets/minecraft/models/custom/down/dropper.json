@@ -6,6 +6,7 @@
         "side": "block/furnace_top"
     }, "display": {
     "head": {
+        "translation":[ 0, -6, 0 ],
         "rotation": [ -90, 0, 0 ]
     }}
 }
